@@ -3,7 +3,7 @@
 
 ## Korišteni Alati
  **HTML & CSS** – za izradu same stranice.  
- **Photopea** – za izradu loga.  
+ **Photopea** – za izradu logotipa.  
  **Canva** – za izradu mockupa majica i dijelove videa.  
  **CapCut** – za montažu videa.  
 
